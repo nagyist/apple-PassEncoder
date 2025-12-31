@@ -1,5 +1,12 @@
 # PassEncoder
 
+> [!WARNING]
+> **This library is no longer maintained.** Please use an alternative, like the Swift Wallet family by [Francesco Paolo Severino](https://github.com/fpseverino):
+> - [swift-wallet](https://github.com/fpseverino/swift-wallet)
+>   - [vapor/wallet](https://github.com/vapor-community/wallet)
+>   - [fluent-wallet](https://github.com/fpseverino/fluent-wallet)
+>   - [hummingbird-wallet](https://github.com/hummingbird-community/hummingbird-wallet)
+
 Apple Wallet (formerly Passbook) pass encoding and signing in Swift.
 
 ## Features
